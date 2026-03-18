@@ -46,7 +46,7 @@ metadata:
     "health_url": "http://127.0.0.1:28789/health"
   },
   "watchdog": {
-    "check_interval_ms": 180000,
+    "check_interval_ms": 1800000,
     "restart_delay_ms": 10000,
     "max_retries": 3
   },
